@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color:black;
+    background-color:antiquewhite;
+}
+.header{
+    padding: 3rem;
+    margin: 2rem auto;
+    text-align: center;
+}
+.header h1{
+    margin-bottom: 1rem;
+    font-size: 3rem;
+}
+.header p{
+    font-size: 2rem;
+}
+.tribute{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bio {
+    margin: 2rem auto;
+    padding: 0px 0,5rem;
+    max-width: 50rem;
+}
+.bio h3{
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+} 
+.bio p{
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
